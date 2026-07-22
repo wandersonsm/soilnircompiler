@@ -133,6 +133,9 @@ Code and data are released under the **CC BY 4.0** license — see `LICENSE`.
 ## Author
 
 Wanderson de Sousa Mendes, Ph.D.
+
 DSc. Soil Science and Plant Nutrition
+
 BSc. Agronomy
+
 **ORCID:** [0000-0003-1271-031X](https://orcid.org/0000-0003-1271-031X)
