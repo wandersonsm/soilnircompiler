@@ -109,13 +109,35 @@ The script installs any missing packages automatically on first run.
    script sets its own working directory relative to the project root and
    creates all required output folders automatically.
 
-## Team and Acknowledgements
+## Project Team
 
 This project was led by Dr. Wanderson de Sousa Mendes as Principal Investigator and brought together researchers from Germany, Wales, Scotland, and the United States.
 
-Project team: Dr. Wanderson de Sousa Mendes, <a href="https://orcid.org/0000-0003-1271-031X">
-  <img src="https://img.shields.io/badge/ORCID-0000--0003--1271--031X-A6CE39?logo=orcid&logoColor=white" height="18" alt="ORCID">
-</a>; Prof. Dr. Leandro Vieira-Filho (Louisiana State University Agricultural Center, USA); Prof. Dr. Payton Yau (Scotland’s Rural College, Scotland); and Dr. Kirsty Elliott (Independent researcher, Wales).
+**Dr. Wanderson de Sousa Mendes**  
+<a href="https://orcid.org/0000-0003-1271-031X">
+  <img src="https://img.shields.io/badge/ORCID-0000--0003--1271--031X-A6CE39?logo=orcid&logoColor=white" height="18" alt="Wanderson Mendes ORCID">
+</a>  
+Principal Investigator
+
+**Prof. Dr. Leandro Vieira-Filho**  
+Louisiana State University Agricultural Center, USA  
+<a href="https://orcid.org/0000-0002-0024-3673">
+  <img src="https://img.shields.io/badge/ORCID-0000--0002--0024--3673-A6CE39?logo=orcid&logoColor=white" height="18" alt="Leandro Vieira-Filho ORCID">
+</a>
+
+**Prof. Dr. Payton Yau**  
+Scotland’s Rural College, Scotland  
+<a href="https://orcid.org/0000-0002-3283-0370">
+  <img src="https://img.shields.io/badge/ORCID-0000--0002--3283--0370-A6CE39?logo=orcid&logoColor=white" height="18" alt="Payton Yau ORCID">
+</a>
+
+**Dr. Kirsty Elliott**  
+Independent Researcher, Wales  
+<a href="https://orcid.org/0000-0001-7760-891X">
+  <img src="https://img.shields.io/badge/ORCID-0000--0001--7760--891X-A6CE39?logo=orcid&logoColor=white" height="18" alt="Kirsty Elliott ORCID">
+</a>
+
+## Acknowledgements
 
 We gratefully acknowledge Prof. Dr. Michael Sommer (Leibniz Centre for Agricultural Landscape Research, Germany) and Prof. Dr. Maria Silveira (Noble Research Institute, USA) for providing the soil samples used in the study. We also thank Prof. Dr. Eyal Ben-Dor (Tel Aviv University, Israel) for providing the internal soil standard used for spectral standardisation.
 
@@ -138,4 +160,6 @@ Code and data are released under the **CC BY 4.0** license — see `LICENSE`.
 
 <sub>DSc in Soil Science and Plant Nutrition</sub><br>
 <sub>BSc in Agronomy</sub><br>
-<sub>ORCID: [0000-0003-1271-031X](https://orcid.org/0000-0003-1271-031X)</sub>
+<sub><a href="https://orcid.org/0000-0003-1271-031X">
+  <img src="https://img.shields.io/badge/ORCID-0000--0003--1271--031X-A6CE39?logo=orcid&logoColor=white" height="18" alt="ORCID">
+</a></sub>
