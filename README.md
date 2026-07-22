@@ -113,7 +113,9 @@ The script installs any missing packages automatically on first run.
 
 This project was led by Dr. Wanderson de Sousa Mendes as Principal Investigator and brought together researchers from Germany, Wales, Scotland, and the United States.
 
-Project team: Dr. Wanderson de Sousa Mendes, **ORCID:** [0000-0003-1271-031X](https://orcid.org/0000-0003-1271-031X); Prof. Dr. Leandro Vieira-Filho (Louisiana State University Agricultural Center, USA); Prof. Dr. Payton Yau (Scotland’s Rural College, Scotland); and Dr. Kirsty Elliott (Independent researcher, Wales).
+Project team: Dr. Wanderson de Sousa Mendes, <a href="https://orcid.org/0000-0003-1271-031X">
+  <img src="https://img.shields.io/badge/ORCID-0000--0003--1271--031X-A6CE39?logo=orcid&logoColor=white" height="18" alt="ORCID">
+</a>; Prof. Dr. Leandro Vieira-Filho (Louisiana State University Agricultural Center, USA); Prof. Dr. Payton Yau (Scotland’s Rural College, Scotland); and Dr. Kirsty Elliott (Independent researcher, Wales).
 
 We gratefully acknowledge Prof. Dr. Michael Sommer (Leibniz Centre for Agricultural Landscape Research, Germany) and Prof. Dr. Maria Silveira (Noble Research Institute, USA) for providing the soil samples used in the study. We also thank Prof. Dr. Eyal Ben-Dor (Tel Aviv University, Israel) for providing the internal soil standard used for spectral standardisation.
 
