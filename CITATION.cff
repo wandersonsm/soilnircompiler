@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software or data, please cite it as below."
-type: software
+type: R programming
 title: "soilnircompiler: Calibration transfer between a low-cost NIR sensor and a research-grade spectroradiometer for soil property prediction"
 version: 0.1.0
 date-released: "2026-07-22"
