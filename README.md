@@ -117,6 +117,10 @@ Project team: Dr. Wanderson Mendes, **ORCID:** [0000-0003-1271-031X](https://orc
 
 We gratefully acknowledge Prof. Dr. Michael Sommer (Leibniz Centre for Agricultural Landscape Research, Germany) and Prof. Dr. Maria Silveira (Noble Research Institute, USA) for providing the soil samples used in the study. We also thank Prof. Dr. Eyal Ben-Dor (Tel Aviv University, Israel) for providing the internal soil standard used for spectral standardisation.
 
+## Funding
+
+This project was proudly supported by the **WCSS 2022 Early Career Interdisciplinary Grant** from [the British Society of Soil Science](https://soils.org.uk/).
+
 ## Citation
 
 If you use this code or data, please cite it — see `CITATION.cff`, or use the
@@ -128,4 +132,7 @@ Code and data are released under the **CC BY 4.0** license — see `LICENSE`.
 
 ## Author
 
-Wanderson de Sousa Mendes — Soil Information and Data Specialist, FAO
+Wanderson de Sousa Mendes, Ph.D.
+DSc. Soil Science and Plant Nutrition
+BSc. Agronomy
+**ORCID:** [0000-0003-1271-031X](https://orcid.org/0000-0003-1271-031X)
