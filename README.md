@@ -109,6 +109,14 @@ The script installs any missing packages automatically on first run.
    script sets its own working directory relative to the project root and
    creates all required output folders automatically.
 
+## Team and Acknowledgements
+
+This project was led by Dr. Wanderson Mendes as Principal Investigator and brought together researchers from Germany, Wales, Scotland, and the United States.
+
+Project team: Dr. Wanderson Mendes, **ORCID:** [0000-0003-1271-031X](https://orcid.org/0000-0003-1271-031X); Prof. Dr. Leandro Vieira-Filho (Louisiana State University Agricultural Center, USA); Prof. Dr. Payton Yau (Scotland’s Rural College, Scotland); and Dr. Kirsty Elliott (Independent researcher, Wales).
+
+We gratefully acknowledge Prof. Dr. Michael Sommer (Leibniz Centre for Agricultural Landscape Research, Germany) and Prof. Dr. Maria Silveira (Noble Research Institute, USA) for providing the soil samples used in the study. We also thank Prof. Dr. Eyal Ben-Dor (Tel Aviv University, Israel) for providing the internal soil standard used for spectral standardisation.
+
 ## Citation
 
 If you use this code or data, please cite it — see `CITATION.cff`, or use the
