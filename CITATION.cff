@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+type: software
+title: "soilnircompiler: Calibration transfer between a low-cost NIR sensor and a research-grade spectroradiometer for soil property prediction"
+version: 0.1.0
+date-released: "2026-07-22"
+authors:
+  - family-names: "de Sousa Mendes"
+    given-names: "Wanderson"
+    affiliation: "Food and Agriculture Organization of the United Nations (FAO)"
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO: replace with your real ORCID iD
+license: CC-BY-4.0
+repository-code: "https://github.com/YOUR-GITHUB-USERNAME/soilnircompiler"   # TODO: replace with actual repo URL
+doi: "10.5281/zenodo.XXXXXXX"   # TODO: replace after first Zenodo deposit
+keywords:
+  - soil spectroscopy
+  - near-infrared spectroscopy
+  - NIR
+  - calibration transfer
+  - spectral standardisation
+  - digital soil mapping
+  - soil carbon
+  - soil nitrogen
+  - Cubist
+  - PLSR
+  - chemometrics
+abstract: >
+  An R pipeline for spectral calibration transfer between a low-cost portable
+  NIR sensor (NIRVascan NIR-S-G1) and a research-grade ASD FieldSpec
+  spectroradiometer, benchmarking six standardisation methods (including a
+  novel Regularised Band-wise Regression, RBR) to predict soil total carbon,
+  total nitrogen, pH, and plant-available phosphorus using PLSR and Cubist
+  models.

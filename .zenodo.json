@@ -1,0 +1,39 @@
+{
+  "title": "soilnircompiler: Calibration transfer between a low-cost NIR sensor and a research-grade spectroradiometer for soil property prediction",
+  "description": "An R pipeline for spectral calibration transfer between a low-cost portable NIR sensor (NIRVascan NIR-S-G1, 900-1700 nm) and a research-grade ASD FieldSpec spectroradiometer (350-2500 nm). Six standardisation methods are benchmarked -- Direct Standardisation (DS), global and band-wise Correction Factor (CF), Piecewise Direct Standardisation (PDS), combined CF+DS, and a novel Regularised Band-wise Regression (RBR) -- to transfer low-cost sensor spectra into the reference instrument's spectral space. PLSR and Cubist models are then calibrated to predict soil total carbon, total nitrogen, pH (H2O), and plant-available phosphorus (Double Lactate extraction). Reference soil analyses were performed at the ZALF Central Laboratory (Muencheberg, Germany).",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "creators": [
+    {
+      "name": "de Sousa Mendes, Wanderson",
+      "affiliation": "Food and Agriculture Organization of the United Nations (FAO)",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "keywords": [
+    "soil spectroscopy",
+    "near-infrared spectroscopy",
+    "NIR sensor",
+    "calibration transfer",
+    "spectral standardisation",
+    "digital soil mapping",
+    "soil organic carbon",
+    "soil total nitrogen",
+    "chemometrics",
+    "Cubist",
+    "PLSR",
+    "ASD FieldSpec",
+    "NIRVascan"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "TODO-add-related-manuscript-DOI-or-preprint-if-any",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    }
+  ],
+  "communities": [],
+  "grants": [],
+  "notes": "Metadata placeholders (ORCID, related manuscript DOI) should be completed before the first Zenodo deposit is finalised."
+}

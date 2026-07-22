@@ -1,0 +1,19 @@
+# Data (archived on Zenodo instead — see data/README.md)
+data/*.csv
+data/*.rds
+!data/README.md
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Generated outputs
+results/figs/*
+!results/figs/.gitkeep
+models/*.rds
+
+# OS
+.DS_Store
+Thumbs.db
