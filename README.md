@@ -156,7 +156,7 @@ Code and data are released under the **CC BY 4.0** license — see `LICENSE`.
 
 ## Author
 
-**Wanderson de Sousa Mendes, DSc**
+**Wanderson de Sousa Mendes, Ph.D**
 
 <sub>DSc in Soil Science and Plant Nutrition</sub><br>
 <sub>BSc in Agronomy</sub><br>
