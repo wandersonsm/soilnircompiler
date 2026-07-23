@@ -1,24 +1,38 @@
 cff-version: 1.2.0
 message: "If you use this software or data, please cite it as below."
-type: R programming
-title: "soilnircompiler: Calibration transfer between a low-cost NIR sensor and a research-grade spectroradiometer for soil property prediction"
+type: software
+title: "soilnircompiler: Calibration transfer from low-cost NIR to a reference vis-NIR spectrometer for estimating soil C, N, P, and pH"
 version: 0.1.0
 date-released: "2026-07-22"
 authors:
   - family-names: "de Sousa Mendes"
     given-names: "Wanderson"
     affiliation: "Food and Agriculture Organization of the United Nations (FAO)"
-    orcid: "https://orcid.org/0000-0003-1271-031X" 
+    orcid: "https://orcid.org/0000-0003-1271-031X"
+  - family-names: "Vieira-Filho"
+    given-names: "Leandro Otavio"
+    orcid: "https://orcid.org/0000-0002-0024-3673"
+  - family-names: "Yau"
+    given-names: "Payton T.O."
+    orcid: "https://orcid.org/0000-0002-3283-0370"
+  - family-names: "Elliott"
+    given-names: "Kirsty"
+    orcid: "https://orcid.org/0000-0001-7760-891X"
+  - family-names: "Silveira"
+    given-names: "Maria Lucia"
+    orcid: "https://orcid.org/0000-0003-2166-3156"
+  - family-names: "Sommer"
+    given-names: "Michael"
+    orcid: "https://orcid.org/0000-0003-3673-6063"
 license: CC-BY-4.0
-repository-code: "https://github.com/wandersonsm/soilnircompiler" 
-doi: "10.5281/zenodo.XXXXXXX"   # TODO: replace after first Zenodo deposit
+repository-code: "https://github.com/wandersonsm/soilnircompiler"
+doi: "10.5281/zenodo.21506455"  
 keywords:
   - soil spectroscopy
   - near-infrared spectroscopy
   - NIR
   - calibration transfer
   - spectral standardisation
-  - digital soil mapping
   - soil carbon
   - soil nitrogen
   - Cubist
@@ -31,3 +45,27 @@ abstract: >
   novel Regularised Band-wise Regression, RBR) to predict soil total carbon,
   total nitrogen, pH, and plant-available phosphorus using PLSR and Cubist
   models.
+preferred-citation:
+  type: article
+  title: "Calibration transfer from low-cost NIR to a reference vis-NIR spectrometer for estimating soil C, N, P, and pH"
+  authors:
+    - family-names: "de Sousa Mendes"
+      given-names: "Wanderson"
+      orcid: "https://orcid.org/0000-0003-1271-031X"
+    - family-names: "Vieira-Filho"
+      given-names: "Leandro Otavio"
+      orcid: "https://orcid.org/0000-0002-0024-3673"
+    - family-names: "Yau"
+      given-names: "Payton T.O."
+      orcid: "https://orcid.org/0000-0002-3283-0370"
+    - family-names: "Elliott"
+      given-names: "Kirsty"
+      orcid: "https://orcid.org/0000-0001-7760-891X"
+    - family-names: "Silveira"
+      given-names: "Maria Lucia"
+      orcid: "https://orcid.org/0000-0003-2166-3156"
+    - family-names: "Sommer"
+      given-names: "Michael"
+      orcid: "https://orcid.org/0000-0003-3673-6063"
+  notes: "Manuscript submitted for peer review (July 2026); update with journal/DOI once accepted."
+
